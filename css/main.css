@@ -1,0 +1,83 @@
+.fon2{		/*Tamanio de texto 1a parte de la seccion*/
+font-family: Dosis;
+font-size: 25px;
+}
+.fondosis{
+font-family: Dosis;
+}
+.fonopen {
+font-family:Open-Sans;
+}
+.fon3{	/*Fuente de Lastest project*/
+font-family: Dosis;
+margin-left: 20px;
+font-size: 30px;
+}
+.img1{		/*Tamaño de la 1er imagen*/
+width: 100%;
+height: 100%;
+}
+.bt1 {		/*Boton de read more*/
+width: 30%;
+padding: 2%;
+color: gray;
+margin-top: 100px;
+border-radius: 10px;
+}
+.lin{		/*Linea*/
+border-bottom: 1px black dashed;
+}
+ol li {
+list-style-type: none;
+color: black;
+display: inline-block;
+padding-left: 2%
+}
+ol a {
+text-decoration: none;
+color: #8E8E8E;
+margin-left: 20px;
+}
+.fon4{
+font-size: 12px;
+color:#8E8E8E;
+float: right;
+}
+.img2{		/*Imagen de la chica*/
+width: 538px;
+height:300px;
+}
+.bt2 {		/*Boton de read more*/
+width: 20%;
+padding: 1%;
+color: gray;
+margin-top: 10%;
+margin-bottom: 10%;
+margin-left: 40%;
+border-radius: 10px;
+}
+.cuad {		/*Tamanio de imagenes lado derecho*/
+width: 3%;
+float: right;
+margin-top: 22px;
+opacity: 0.5;
+margin-left: 5px;
+}
+.img3 {		/*Tamanio imagen de twiter*/
+width: 40%;
+margin-left:30px;
+margin-bottom: 5px;
+}
+#rojo{		/*Color de navegacion*/
+color:red;
+text-decoration: none;
+}
+.bt3 {		/*Boton de follow*/
+width: 20%;
+padding: 0%;
+background-color: #373535;
+color: white;
+margin-bottom: 15%;
+margin-left:-35%;
+border-radius: 10px;
+}
